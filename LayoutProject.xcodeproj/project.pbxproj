@@ -16,6 +16,7 @@
 		CF65CA1C287EDB06005647F0 /* LayoutProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF65CA1B287EDB06005647F0 /* LayoutProjectTests.swift */; };
 		CF65CA26287EDB06005647F0 /* LayoutProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF65CA25287EDB06005647F0 /* LayoutProjectUITests.swift */; };
 		CF65CA28287EDB06005647F0 /* LayoutProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF65CA27287EDB06005647F0 /* LayoutProjectUITestsLaunchTests.swift */; };
+		CF65CA35287EDC8B005647F0 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CF65CA34287EDC8B005647F0 /* images.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CF65CA21287EDB06005647F0 /* LayoutProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LayoutProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF65CA25287EDB06005647F0 /* LayoutProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutProjectUITests.swift; sourceTree = "<group>"; };
 		CF65CA27287EDB06005647F0 /* LayoutProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF65CA34287EDC8B005647F0 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpeg; path = ../../../../Downloads/images.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				CF65CA08287EDAFB005647F0 /* ViewController.swift */,
 				CF65CA0A287EDAFB005647F0 /* Main.storyboard */,
 				CF65CA0D287EDB06005647F0 /* Assets.xcassets */,
+				CF65CA34287EDC8B005647F0 /* images.jpeg */,
 				CF65CA0F287EDB06005647F0 /* LaunchScreen.storyboard */,
 				CF65CA12287EDB06005647F0 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF65CA11287EDB06005647F0 /* LaunchScreen.storyboard in Resources */,
+				CF65CA35287EDC8B005647F0 /* images.jpeg in Resources */,
 				CF65CA0E287EDB06005647F0 /* Assets.xcassets in Resources */,
 				CF65CA0C287EDAFB005647F0 /* Main.storyboard in Resources */,
 			);
@@ -442,6 +446,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -469,6 +474,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
